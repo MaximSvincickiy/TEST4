@@ -1,1 +1,2 @@
-﻿change from TortoiseGIT1
+﻿change from TortoiseGIT
+plus some changes from Git client
